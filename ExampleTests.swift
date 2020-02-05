@@ -1,7 +1,7 @@
 import XCTest
 
 class ExampleTests: ExampleSuiteResources {
-    let exampleTestConstant = "Aktia High Conviction B"
+    let exampleTestConstant = "Test string"
    
     override func setUp() {
         super.setUp()
