@@ -1,3 +1,5 @@
+import XCTest
+
 class CommonResources: XCTestCase {
 
 let app = XCUIApplication()
