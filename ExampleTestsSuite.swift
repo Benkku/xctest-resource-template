@@ -13,7 +13,11 @@ class ExampleTests: ExampleSuiteResources {
         // Example test specific teardown here
     }
     
-    func testExample() {
+    func testCaseExample1() {
+    // example test implementation here
+    }
+    
+    func testCaseExample2() {
     // example test implementation here
     }
 }
